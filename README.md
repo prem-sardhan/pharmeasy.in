@@ -1,7 +1,10 @@
 # Clone of pharmeasy.in
 # Description:
 <h2>
-PharmEasy is a consumer healthcare “super app” that provides consumers with on-demand, home delivered access to a wide range of prescription, OTC pharmaceutical, other consumer healthcare products, comprehensive diagnostic test services, and teleconsultations thereby serving their healthcare needs.
+PharmEasy is a consumer healthcare “super app” that provides consumers with on-demand, home delivered access to a wide range of prescription, OTC pharmaceutical, other consumer healthcare products, comprehensive diagnostic test services, and teleconsultations thereby serving their healthcare needs. 
+</h2>
+
+<h2> Here the clone of original pharmeasy.in website, I was assigned a team of 5 members, we have assigned this project during our construct week and this collaborative project has buit by doing individual tasks of my team member along with me.
 </h2>
 
 # Tech-Stacks:
@@ -40,12 +43,4 @@ PharmEasy is a consumer healthcare “super app” that provides consumers with 
 
 ## Single-Cart Page:
 ![single-card-page](https://user-images.githubusercontent.com/105616033/201505232-b0309d22-6666-4921-adb1-5ddcf0d56446.png)
-
-# Responsiveness:
-![screenshot__12860_](https://user-images.githubusercontent.com/105616033/201505681-4a5d565c-e876-46b5-a7e3-3359ae2f0226.png)
-<br/>
-![screenshot__12861_](https://user-images.githubusercontent.com/105616033/201505709-c1c8b591-8707-489a-9c86-bc83c12e5765.png)
-<br/>
-
-![screenshot__12862_](https://user-images.githubusercontent.com/105616033/201505715-86414075-1ee5-4350-9094-f0397d4959f4.png)
 
