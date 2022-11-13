@@ -31,6 +31,7 @@ PharmEasy is a consumer healthcare “super app” that provides consumers with 
 <br/>
 
 ## Lab-Test Page:
+![lab-tests](https://user-images.githubusercontent.com/105616033/201505496-88c9e837-1787-45ea-8e51-844b86ba4d92.png)
 
 ## Product Page:
 ![product-page](https://user-images.githubusercontent.com/105616033/201505218-58d13bff-cfc6-4b71-8804-5aaf1fc09aa1.png)
