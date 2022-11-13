@@ -4,8 +4,8 @@
 PharmEasy is a consumer healthcare “super app” that provides consumers with on-demand, home delivered access to a wide range of prescription, OTC pharmaceutical, other consumer healthcare products, comprehensive diagnostic test services, and teleconsultations thereby serving their healthcare needs. 
 </h2>
 
-<h2> Here the clone of original pharmeasy.in website, I was assigned a team of 5 members, we have assigned this project during our construct week and this collaborative project has buit by doing individual tasks of my team member along with me.
-</h2>
+<h4> Here the clone of original pharmeasy.in website, A collaborative project. I was assigned a team of 5 members, we have assigned this project during our construct week and this collaborative project has built by doing individual tasks of my team member along with me.
+</h4>
 
 # Tech-Stacks:
 <div>
