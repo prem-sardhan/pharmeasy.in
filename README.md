@@ -21,6 +21,7 @@ PharmEasy is a consumer healthcare “super app” that provides consumers with 
 <br/>
 
 ## Login Page:
+![screenshot__12859_](https://user-images.githubusercontent.com/105616033/201505479-f07d85e4-3ce1-4a5a-93d3-e9dbc2a4577b.png)
 
 <h3>Users can login with the help of email-id and on submitting mail-id users will get otp and on submitting otp to otp section user will be loged in, later on He/She can logout as well.</h3>
 
